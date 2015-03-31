@@ -1,0 +1,8 @@
+# Introduction #
+
+Utilitaire de parsing des déconnexions.
+
+
+# Details #
+
+Nécessite le .NET Framework 1.1
